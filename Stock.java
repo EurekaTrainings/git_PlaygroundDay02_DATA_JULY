@@ -5,6 +5,8 @@ public class Stock {
     private String tickerSymbol;
     private String tickerName;
     private int marketCap;
+    private int openPrice;
+    private int closePrice;
 
 
     public Stock(String tickerSymbol,
