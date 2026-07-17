@@ -4,7 +4,7 @@ import java.util.Objects;
 public class Stock {
     private String tickerSymbol;
     private String tickerName;
-    private int marketCap;
+    private int marketCapL;
 
 
     public Stock(String tickerSymbol,
