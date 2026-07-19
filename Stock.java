@@ -10,6 +10,8 @@ public class Stock {
     private int closeprice;
     private Date tradingDate;
     private LocalDate tradeDate;
+    private String Officename;
+    private String Offlocat;
 
 
     public Stock(String tickerSymbol,
