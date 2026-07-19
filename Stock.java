@@ -7,6 +7,7 @@ public class Stock {
     private String tickerSymbol;
     private String tickerName;
     private int marketCap;
+    private double currentRatio;
     private int openprice;
     private int closeprice;
     private LocalDate tradingdate;
