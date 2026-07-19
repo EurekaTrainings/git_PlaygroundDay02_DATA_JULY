@@ -20,6 +20,7 @@ public class Stock {
     private LocalDate tradingDate;
     private int pricePercentage
     private int num3;
+    private String Name;
 
     public Stock(String tickerSymbol,
                  String tickerName,
