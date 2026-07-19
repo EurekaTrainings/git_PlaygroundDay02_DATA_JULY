@@ -15,7 +15,8 @@ public class Stock {
     private int closePrice;
     private Date tradingDate;
     private LocalDate tradingDate;
-    private int pricePercentage
+    private int pricePercentage;
+    private LocalDate tradingdate;
 
 
     public Stock(String tickerSymbol,
