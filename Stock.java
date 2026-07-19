@@ -10,6 +10,7 @@ public class Stock {
     private string strrr;
     private int openPrice;
     private int closePrice;
+    private LocalDate tradingDate;
 
 
     public Stock(String tickerSymbol,
