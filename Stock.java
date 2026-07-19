@@ -1,4 +1,5 @@
 import java.math.BigDecimal;
+import java.sql.Date;
 import java.util.Objects;
 
 public class Stock {
@@ -10,6 +11,7 @@ public class Stock {
     private string strrr;
     private int openPrice;
     private int closePrice;
+    private Date tradingDate;
 
 
     public Stock(String tickerSymbol,
