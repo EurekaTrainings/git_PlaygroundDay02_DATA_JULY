@@ -42,3 +42,4 @@ public class Stock {
 
 }
 // test
+// merge conflict demo
