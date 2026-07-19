@@ -5,7 +5,8 @@ public class Stock {
     private String tickerSymbol;
     private String tickerName;
     private int marketCapL;
-
+    private Date latest_date;
+    private String ticker_s;
 
     public Stock(String tickerSymbol,
                  String tickerName,
