@@ -21,6 +21,8 @@ public class Stock {
     private int pricePercentage
     private int num3;
     private String Name;
+    private int num1;
+
 
     public Stock(String tickerSymbol,
                  String tickerName,
