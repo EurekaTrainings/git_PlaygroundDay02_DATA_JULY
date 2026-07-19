@@ -20,7 +20,11 @@ public class StringManipulations {
         System.out.println("String starts with test: " + str.startsWith("test"));
         System.out.println("String ends with string: " + str.endsWith("string"));
 
-        String data = "AAPL,MSFT,GOOG,AMZN,UNH,TSLA";
+<<<<<<< HEAD
+        String data = "AAPL,MSFT,GOOG,AMZN,UNH";
+=======
+        String data = "AAPL,MSFT,GOOG,AMZN,TSLA";
+>>>>>>> fb940bf7b0df1f80682aadb80926eb8195677920
         String[] tickers = data.split(",");
         for (String ticker : tickers) {
             System.out.println("Ticker: " + ticker);
