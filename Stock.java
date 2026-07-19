@@ -24,9 +24,9 @@ public class Stock {
     private int issueFix; //add a new private variable issueFix
     private Date tradingDate;
     private LocalDate tradingDate;
-    private int pricePercentage;
+    private int pricePercentage;s
     private int num;
-    private int course; // new change
+    private int course; // new changesssssss
 
 
     public Stock(String tickerSymbol,
