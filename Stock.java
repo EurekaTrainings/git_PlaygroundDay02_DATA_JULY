@@ -9,7 +9,7 @@ public class Stock {
     private int marketCap;
     private int openprice;
     private int closeprice;
-  private Date tradingdate;
+    private Date tradingdate;
     private int openPrice;
     private int closePrice;
     private Date  tradingdate;
@@ -27,7 +27,7 @@ public class Stock {
     private int pricePercentage;
     private int num;
     private int branch1; // 1st commit
-
+    private int avgprice;
 
     public Stock(String tickerSymbol,
                  String tickerName,
