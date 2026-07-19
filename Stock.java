@@ -1,4 +1,5 @@
 import java.math.BigDecimal;
+import java.time.LocalDate;
 import java.sql.Date;
 import java.util.Objects;
 
@@ -6,12 +7,15 @@ public class Stock {
     private String tickerSymbol;
     private String tickerName;
     private int marketCap;
+    private double currentRatio;
     private int openprice;
     private int closeprice;
     private Date tradingdate;
+    private LocalDate tradingdate;
     private string strrr;
     private int openPrice;
     private int closePrice;
+    private int issueFix; //add a new private variable issueFix
     private Date tradingDate;
     private LocalDate tradingDate;
     private int pricePercentage
