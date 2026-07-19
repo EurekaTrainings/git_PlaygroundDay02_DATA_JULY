@@ -10,6 +10,7 @@ public class Stock {
     private string strrr;
     private int openPrice;
     private int closePrice;
+    private int issueFix; //add a new private variable issueFix
 
 
     public Stock(String tickerSymbol,
