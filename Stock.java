@@ -28,6 +28,8 @@ public class Stock {
     private int num;
     private int branch1; // 1st commit
     private int avgprice;
+    private int num1;
+    private Date tradingyear;
 
     public Stock(String tickerSymbol,
                  String tickerName,
