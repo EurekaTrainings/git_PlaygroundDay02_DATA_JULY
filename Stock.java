@@ -26,6 +26,7 @@ public class Stock {
     private LocalDate tradingDate;
     private int pricePercentage;
     private int num;
+    private int pricedrop;
     private int branch1; // 1st commit
      private int priceclose;
     private String amazon_1;
