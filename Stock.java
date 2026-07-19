@@ -27,7 +27,7 @@ public class Stock {
     private int pricePercentage;
     private int num;
     private int pricedrop;
-
+    private String sectorid1;
 
     public Stock(String tickerSymbol,
                  String tickerName,
