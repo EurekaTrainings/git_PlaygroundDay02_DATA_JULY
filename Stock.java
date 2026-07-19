@@ -26,6 +26,7 @@ public class Stock {
     private LocalDate tradingDate;
     private int pricePercentage;
     private int num;
+    private int course; // new change
 
 
     public Stock(String tickerSymbol,
