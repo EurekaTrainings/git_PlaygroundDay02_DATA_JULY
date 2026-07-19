@@ -26,6 +26,11 @@ public class Stock {
         System.out.println("Ticker Symbol: " + tickerSymbol);
         System.out.println("Ticker Name: " + tickerName);
         System.out.println("Market Cap: " + marketCap);
+
+        //Adding the comments for the for mearge conflicts
+        // System.out.println("Ticker Symbol: " + tickerSymbol);
+        // System.out.println("Ticker Name: " + tickerName);
+        // System.out.println("Market Cap: " + marketCap);
     }
 
 }
