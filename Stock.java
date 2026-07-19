@@ -11,7 +11,7 @@ public class Stock {
     private Date tradingDate;
     private LocalDate tradeDate;
     private String Zipcode;
-    
+
 
     public Stock(String tickerSymbol,
                  String tickerName,
