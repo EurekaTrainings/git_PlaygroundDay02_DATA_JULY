@@ -13,6 +13,7 @@ public class Stock {
     private string strrr;
     private int openPrice;
     private int closePrice;
+    private int issueFix; //add a new private variable issueFix
     private Date tradingDate;
     private LocalDate tradingDate;
     private int pricePercentage
