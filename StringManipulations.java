@@ -3,7 +3,7 @@ import java.util.List;
 
 public class StringManipulations {
     public static void main(String[] args) {
-        String str = "test";
+        String str = "testing";
         str = "test" + "string";
         System.out.println("String length: " + str.length());
         System.out.println("String to upper: " + str.toUpperCase());

@@ -12,6 +12,7 @@ public class Stock {
     private LocalDate tradeDate;
     private String Officename;
     private String Offlocat;
+    private String Sundaytime;
 
 
     public Stock(String tickerSymbol,
