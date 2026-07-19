@@ -8,6 +8,21 @@ public class Stock {
     private int openprice;
     private int closeprice;
     private int tradingdata;
+    private int openPrice;
+    private int closePrice;
+    private Date  tradingdate;
+    private double currentRatio;
+    private int openprice;
+    private int closeprice;
+    private Date tradingdate;
+    private LocalDate tradingdate;
+    private string strrr;
+    private int openPrice;
+    private int closePrice;
+    private int issueFix; //add a new private variable issueFix
+    private Date tradingDate;
+    private LocalDate tradingDate;
+    private int pricePercentage
 
 
     public Stock(String tickerSymbol,
