@@ -9,6 +9,7 @@ public class Stock {
     private int openprice;
     private int closeprice;
     private Date tradingDate;
+    private LocalDate tradeDate;
 
 
     public Stock(String tickerSymbol,
