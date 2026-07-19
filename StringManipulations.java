@@ -19,7 +19,7 @@ public class StringManipulations {
 
         System.out.println("String starts with test: " + str.startsWith("test"));
         System.out.println("String ends with string: " + str.endsWith("string"));
-
+        System.out.println("Welcome to Earth")
 <<<<<<< HEAD
         String data = "AAPL,MSFT,GOOG,AMZN,UNH";
 =======
