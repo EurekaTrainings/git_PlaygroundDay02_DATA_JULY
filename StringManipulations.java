@@ -5,7 +5,7 @@ public class StringManipulations {
     public static void main(String[] args) {
         String str = "test";
         str = "test" + "string";
-        string sh= "shourya"
+        string sh= "keerthi"
         System.out.println("String length: " + str.length());
         System.out.println("String to upper: " + str.toUpperCase());
 
