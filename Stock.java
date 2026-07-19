@@ -12,6 +12,7 @@ public class Stock {
     private int openPrice;
     private int closePrice;
     private Date tradingDate;
+    private LocalDate tradingDate;
 
 
     public Stock(String tickerSymbol,
@@ -35,3 +36,4 @@ public class Stock {
     }
 
 }
+// test
