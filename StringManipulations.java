@@ -12,7 +12,8 @@ public class StringManipulations {
         System.out.println("Sub string: " + str.substring(4));
         System.out.println("Character at index 0: " + str.charAt(0));
         System.out.println("Character at last index: " + str.charAt(str.length() - 1));
-
+         System.out.println("welcome from remote"));
+        System.out.println("Character at last index: " + str.charAt(str.length() - 1));
         System.out.println("String contains test: " + str.contains("test"));
         System.out.println("String contains Test: " + str.contains("Test"));
         System.out.println("String contains Test: " + str.toUpperCase().contains("Test".toUpperCase()));
