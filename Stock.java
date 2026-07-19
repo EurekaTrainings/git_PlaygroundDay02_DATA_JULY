@@ -25,14 +25,9 @@ public class Stock {
     private Date tradingDate;
     private LocalDate tradingDate;
     private int pricePercentage;
-    private int num;
-    private int branch1; // 1st commit
-//    private int branch1; // 1st commit
-//    private int branch1; // 1st commit
-//    private int branch1; // 1st commit
-//    private int branch1; // 1st commit
-//    private int branch1; // 1st commit
-//    private int branch1; // 1st commit
+    private String amazon_1;
+
+
     public Stock(String tickerSymbol,
                  String tickerName,
                  int marketCap,
