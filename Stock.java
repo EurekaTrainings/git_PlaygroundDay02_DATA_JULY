@@ -25,7 +25,7 @@ public class Stock {
     private Date tradingDate;
     private LocalDate tradingDate;
     private int pricePercentage;
-    private int num;
+    private String amazon;
 
 
     public Stock(String tickerSymbol,
