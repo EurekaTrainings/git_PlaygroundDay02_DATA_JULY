@@ -9,7 +9,7 @@ public class Stock {
     private int marketCap;
     private int openprice;
     private int closeprice;
-  private Date tradingdate;
+    private Date tradingdate;
     private int openPrice;
     private int closePrice;
     private Date  tradingdate;
@@ -27,6 +27,11 @@ public class Stock {
     private int pricePercentage;
     private int num;
     private int branch2; //this is 1st commit in branch2
+    private int pricedrop;
+    private int branch1; // 1st commit
+    private int avgprice;
+     private int priceclose;
+    private String amazon_1;
 
 
     public Stock(String tickerSymbol,
@@ -50,4 +55,22 @@ public class Stock {
     }
 
 }
-// test
+
+
+// Commit 1 From "Datta-Branch-1"
+//private int openPrice;
+//private int closePrice;
+//private Date  tradingdate;
+//private double currentRatio;
+//private int openprice;
+//private int closeprice;
+//private Date tradingdate;
+//private LocalDate tradingdate;
+//private string strrr;
+//private int openPrice;
+//private int closePrice;
+//private int issueFix; //add a new private variable issueFix
+//private Date tradingDate;
+//private LocalDate tradingDate;
+//private int pricePercentage;
+//private int num;
