@@ -9,7 +9,7 @@ public class Stock {
     private int marketCap;
     private int openprice;
     private int closeprice;
-  private Date tradingdate;
+    private Date tradingdate;
     private int openPrice;
     private int closePrice;
     private Date  tradingdate;
