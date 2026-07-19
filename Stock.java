@@ -27,8 +27,12 @@ public class Stock {
     private int pricePercentage;
     private int num;
     private int branch1; // 1st commit
-
-
+//    private int branch1; // 1st commit
+//    private int branch1; // 1st commit
+//    private int branch1; // 1st commit
+//    private int branch1; // 1st commit
+//    private int branch1; // 1st commit
+//    private int branch1; // 1st commit
     public Stock(String tickerSymbol,
                  String tickerName,
                  int marketCap,
