@@ -27,7 +27,7 @@ public class Stock {
     private int pricePercentage;
     private int num;
     private int branch1; // 1st commit
-
+     private int priceclose;
 
     public Stock(String tickerSymbol,
                  String tickerName,
