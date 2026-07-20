@@ -5,6 +5,8 @@ public class StringManipulations {
     public static void main(String[] args) {
         String str = "test";
         str = "test" + "string";
+        string sh= "shourya";
+        String str = "price";
         string sh= "keerthi"
         System.out.println("String length: " + str.length());
         System.out.println("String to upper: " + str.toUpperCase());
@@ -27,6 +29,10 @@ public class StringManipulations {
         String[] tickers = data.split(",");
         for (String ticker : tickers) {
             System.out.println("Ticker: " + ticker);
+            //test3
+            //test4
+            //test merge
+            //branch 4 change
         }
     }
 }
