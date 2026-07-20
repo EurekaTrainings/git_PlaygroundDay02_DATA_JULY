@@ -28,12 +28,14 @@ public class Stock {
     private int num;
     private int branch2; //this is 1st commit in branch2
     private int pricedrop;
+    private String sectorid1;
     private int branch1; // 1st commit
     private int avgprice;
     private int num1;
     private Date tradingyear;
      private int priceclose;
     private String amazon_1;
+    private string sectorid;
     private string devep1;
     private String name;
 
@@ -59,6 +61,7 @@ public class Stock {
     }
 
 }
+// test
 
 
 // Commit 1 From "Datta-Branch-1"
