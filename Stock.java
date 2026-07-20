@@ -31,7 +31,7 @@ public class Stock {
     private int branch1; // 1st commit
     private int avgprice;
      private int priceclose;
-    private String amazon_1;
+    private String amazon_3;
 
 
     public Stock(String tickerSymbol,
