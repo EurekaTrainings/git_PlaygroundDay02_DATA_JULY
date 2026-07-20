@@ -47,6 +47,6 @@ public class Stock {
         System.out.println("Ticker Name: " + tickerName);
         System.out.println("Market Cap: " + marketCap);
     }
-
+// fourth commit
 }
 // test
