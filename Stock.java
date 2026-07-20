@@ -37,6 +37,9 @@ public class Stock {
     private Date tradingyear;
      private int priceclose;
     private String amazon_1;
+    private int branch2.1; //this is 2nd commit in branch2
+    private int branch2.1.1;
+
     private int branch2.1;
     private int open1;//this is 2nd commit in branch2
     private int open2;
