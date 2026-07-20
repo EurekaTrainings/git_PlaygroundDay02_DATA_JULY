@@ -12,7 +12,7 @@ public class Stock {
     private LocalDate tradeDate;
     private String Officename;
     private String Offlocat;
-
+    private String Casualtxt;
 
     public Stock(String tickerSymbol,
                  String tickerName,
