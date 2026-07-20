@@ -16,7 +16,7 @@ public class StringManipulations {
         System.out.println("String contains test: " + str.contains("test"));
         System.out.println("String contains Test: " + str.contains("Test"));
         System.out.println("String contains Test: " + str.toUpperCase().contains("Test".toUpperCase()));
-
+        System.out.println("New str for merge ");
         System.out.println("String starts with test: " + str.startsWith("test"));
         System.out.println("String ends with string: " + str.endsWith("string"));
 
