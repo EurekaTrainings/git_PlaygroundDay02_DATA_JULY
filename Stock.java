@@ -9,7 +9,7 @@ public class Stock {
     private int marketCap;
     private int openprice;
     private int closeprice;
-  private Date tradingdate;
+    private Date tradingdate;
     private int openPrice;
     private int closePrice;
     private Date  tradingdate;
@@ -24,14 +24,18 @@ public class Stock {
     private int issueFix; //add a new private variable issueFix
     private Date tradingDate;
     private LocalDate tradingDate;
-    private int pricePercentage;
+    private int pricePercentage23;
     private int num;
+    private int branch2; //this is 1st commit in branch2
     private int pricedrop;
     private String sectorid1;
     private int branch1; // 1st commit
+    private int avgprice;
      private int priceclose;
     private String amazon_1;
     private string sectorid;
+    private string devep1;
+    private String name;
 
 
     public Stock(String tickerSymbol,
