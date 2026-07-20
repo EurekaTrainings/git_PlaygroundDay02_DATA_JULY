@@ -30,6 +30,8 @@ public class Stock {
     private int pricedrop;
     private int branch1; // 1st commit
     private int avgprice;
+    private int num1;
+    private Date tradingyear;
      private int priceclose;
     private String amazon_1;
     private string devep1;
