@@ -74,6 +74,7 @@ public class Stock {
         System.out.println("Market Cap: " + marketCap);
         System.out.println("Close Price: " + closeprice);
         System.out.println("Open Price: " + openprice);
+        System.out.println("Price Drop: " + pricedrop);
     }
     //second commit
 
