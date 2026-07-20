@@ -28,6 +28,11 @@ public class Stock {
     private int num;
     private int pricedrop;
     private String sectorid1;
+    private int branch1; // 1st commit
+     private int priceclose;
+    private String amazon_1;
+    private string sectorid;
+
 
     public Stock(String tickerSymbol,
                  String tickerName,
