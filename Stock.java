@@ -24,9 +24,10 @@ public class Stock {
     private int issueFix; //add a new private variable issueFix
     private Date tradingDate;
     private LocalDate tradingDate;
-    private int pricePercentage23;
+    private int pricePercentage23123234;
     private int num;
-    private int branch3;//this is first commit in branch3
+    private int branch5;//this is first commit in branch 5
+    private int branch4;//this is first commit in branch4
     private int branch2; //this is 1st commit in branch2
     private int pricedrop;
     private String sectorid1;
@@ -37,7 +38,11 @@ public class Stock {
      private int priceclose;
     private String amazon_1;
     private int branch2.1; //this is 2nd commit in branch2
+    private int branch2.1.1;
 
+    private int branch2.1;
+    private int open1;//this is 2nd commit in branch2
+    private int open2;
     private int close;
     private int price2;
     private string sectorid;
@@ -59,13 +64,18 @@ public class Stock {
         return bool;
     }
 
+    // first branch
+
     void print() {
         System.out.println("Ticker Symbol: " + tickerSymbol);
         System.out.println("Ticker Name: " + tickerName);
         System.out.println("Market Cap: " + marketCap);
+        System.out.println("Market Cap: " + openprice);
     }
+    //second commit
 
 }
+// test 2
 // test
 
 
