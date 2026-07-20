@@ -76,3 +76,17 @@ public class Stock {
 //private LocalDate tradingDate;
 //private int pricePercentage;
 //private int num;
+
+
+//SaiRam-Commit-1
+
+//private Date tradingDate;
+//private LocalDate tradingDate;
+//private int pricePercentage23;
+//private int num;
+//private int branch2; //this is 1st commit in branch2
+//private int pricedrop;
+//private int branch1; // 1st commit
+//private int avgprice;
+//private int priceclose;
+//private String amazon_1;
