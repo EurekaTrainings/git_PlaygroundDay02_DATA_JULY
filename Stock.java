@@ -12,7 +12,6 @@ public class Stock {
     private Date tradingdate;
     private int openPrice;
     private int closePrice;
-    private Date  tradingdate;
     private double currentRatio;
     private int openprice;
     private int closeprice;
@@ -51,6 +50,9 @@ public class Stock {
     private int price2;
     private string sectorid;
     private string devep1;
+    private String name;
+    private String name1;
+    private String name2;
 
 
 
@@ -75,6 +77,9 @@ public class Stock {
         System.out.println("Ticker Symbol: " + tickerSymbol);
         System.out.println("Ticker Name: " + tickerName);
         System.out.println("Market Cap: " + marketCap);
+        System.out.println("Close Price: " + closeprice);
+        System.out.println("Open Price: " + openprice);
+        System.out.println("Price Drop: " + pricedrop);
 
         System.out.println("Close Price: " + closeprice); 
 
