@@ -26,6 +26,7 @@ public class StringManipulations {
         String[] tickers = data.split(",");
         for (String ticker : tickers) {
             System.out.println("Ticker: " + ticker);
+            System.out.println("new Ticker");
         }
     }
 }
