@@ -12,7 +12,6 @@ public class Stock {
     private Date tradingdate;
     private int openPrice;
     private int closePrice;
-    private Date  tradingdate;
     private double currentRatio;
     private int openprice;
     private int closeprice;
