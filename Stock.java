@@ -47,7 +47,6 @@ public class Stock {
     private int price2;
     private string sectorid;
     private string devep1;
-    private String name;
 
 
     public Stock(String tickerSymbol,
