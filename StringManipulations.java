@@ -28,6 +28,8 @@ public class StringManipulations {
         String[] tickers = data.split(",");
         for (String ticker : tickers) {
             System.out.println("Ticker: " + ticker);
+            //test3
+            //test4
             //test merge
         }
     }
