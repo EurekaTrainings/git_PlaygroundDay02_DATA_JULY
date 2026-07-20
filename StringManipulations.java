@@ -8,6 +8,7 @@ public class StringManipulations {
         string sh= "shourya";
         String str = "price";
         String Str = "new stock";
+        String Str = "new stock1";
         System.out.println("String length: " + str.length());
         System.out.println("String to upper: " + str.toUpperCase());
 
