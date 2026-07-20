@@ -33,7 +33,7 @@ public class Stock {
      private int priceclose;
     private String amazon_1;
     private int branch2.1; //this is 2nd commit in branch2
-
+    private int branch2.2;//this is 3rd commit in branch2
 
 
     public Stock(String tickerSymbol,
