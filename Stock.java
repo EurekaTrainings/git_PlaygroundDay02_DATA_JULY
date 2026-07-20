@@ -78,8 +78,7 @@ public class Stock {
 
         System.out.println("Market Cap: " + openprice);
     }
-    //fifth branch
-
+  //sixth branch
 }
 // test 2
 // test
