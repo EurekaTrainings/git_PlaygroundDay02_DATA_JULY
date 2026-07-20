@@ -26,6 +26,7 @@ public class Stock {
     private LocalDate tradingDate;
     private int pricePercentage23;
     private int num;
+    private int branch5;//this is first commit in branch 5
     private int branch4;//this is first commit in branch4
     private int branch2; //this is 1st commit in branch2
     private int pricedrop;
