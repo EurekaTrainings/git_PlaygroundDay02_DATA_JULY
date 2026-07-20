@@ -50,6 +50,7 @@ public class Stock {
     private string devep1;
     private String name;
     private String name1;
+    private String name2;
 
 
     public Stock(String tickerSymbol,
