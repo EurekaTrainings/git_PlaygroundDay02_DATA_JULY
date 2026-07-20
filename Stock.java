@@ -25,6 +25,8 @@ public class Stock {
     private LocalDate tradingDate;
     private int pricePercentage23123234;
     private int num;
+    private int branch1;
+    private Date todaydate;// 1st commit
     private int branch5;//this is first commit in branch 5
     private int branch4;//this is first commit in branch4
     private int branch2; //this is 1st commit in branch2
@@ -35,10 +37,11 @@ public class Stock {
     private int num1;
     private Date tradingyear;
      private int priceclose;
+    private String amazon_3;
     private String amazon_2;
     private String amazon_1;
-    private int branch2.1; //this is 2nd commit in branch2
-    private int branch2.1.1;
+    //this is 2nd commit in branch2
+    private String amazon_1; //this is 2nd commit in branch2
 
     private int branch2.1;
     private int open1;//this is 2nd commit in branch2
@@ -50,6 +53,7 @@ public class Stock {
     private String name;
     private String name1;
     private String name2;
+
 
 
     public Stock(String tickerSymbol,
@@ -69,15 +73,19 @@ public class Stock {
     // first branch
 
     void print() {
+        System.out.println("Ticker Symbol);
         System.out.println("Ticker Symbol: " + tickerSymbol);
         System.out.println("Ticker Name: " + tickerName);
         System.out.println("Market Cap: " + marketCap);
         System.out.println("Close Price: " + closeprice);
         System.out.println("Open Price: " + openprice);
         System.out.println("Price Drop: " + pricedrop);
-    }
-    //second commit
 
+        System.out.println("Close Price: " + closeprice); 
+
+        System.out.println("Market Cap: " + openprice);
+    }
+  //sixth branch
 }
 // test 2
 // test
