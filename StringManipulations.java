@@ -30,6 +30,7 @@ public class StringManipulations {
         for (String ticker : tickers) {
             System.out.println("Ticker: " + ticker);
             //test3
+            //test4
         }
     }
 }
