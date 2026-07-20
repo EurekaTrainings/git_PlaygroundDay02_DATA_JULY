@@ -73,7 +73,7 @@ public class Stock {
         System.out.println("Market Cap: " + marketCap);
         System.out.println("Market Cap: " + openprice);
     }
-    //second commit
+    //third commit
 
 }
 // test 2
