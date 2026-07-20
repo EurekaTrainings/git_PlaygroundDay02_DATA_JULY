@@ -5,7 +5,7 @@ public class StringManipulations {
     public static void main(String[] args) {
         String str = "test";
         str = "test" + "string";
-        string sh= "shourya"
+        string sh= "keerthi"
         System.out.println("String length: " + str.length());
         System.out.println("String to upper: " + str.toUpperCase());
 
@@ -20,6 +20,7 @@ public class StringManipulations {
 
         System.out.println("String starts with test: " + str.startsWith("test"));
         System.out.println("String ends with string: " + str.endsWith("string"));
+        System.out.println("welcome");
 
         String data = "AAPL,MSFT,GOOG,AMZN,TSLA,IBM,JBL";
         String[] tickers = data.split(",");
