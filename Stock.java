@@ -13,6 +13,7 @@ public class Stock {
     private String Zipcode;
     private String Max_price;
     private String Min_price;
+    private String Swaroop2;
 
 
     public Stock(String tickerSymbol,
