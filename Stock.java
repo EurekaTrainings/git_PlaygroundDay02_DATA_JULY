@@ -24,7 +24,7 @@ public class Stock {
     private int issueFix; //add a new private variable issueFix
     private Date tradingDate;
     private LocalDate tradingDate;
-    private int pricePercentage;
+    private int pricePercentage23;
     private int num;
     private int branch2; //this is 1st commit in branch2
     private int pricedrop;
