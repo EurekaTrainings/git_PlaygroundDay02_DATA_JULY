@@ -16,6 +16,7 @@ public class Stock {
     private String Swaroop2;
     private String Swaroop5;
     private String Swaroopgit;
+    private String SwaroopLocal;
 
 
     public Stock(String tickerSymbol,
