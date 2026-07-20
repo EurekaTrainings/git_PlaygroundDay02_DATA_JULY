@@ -25,6 +25,7 @@ public class StringManipulations {
         System.out.println("welcome to Eureka");
         System.out.println("welcome to Earth");
 
+        String data = "AAPL,MSFT,GOOG,AMZN,TSLA,HUM";
         String data = "AAPL,MSFT,GOOG,AMZN,TSLA,IBM,JBL";
         String[] tickers = data.split(",");
         for (String ticker : tickers) {
