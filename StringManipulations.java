@@ -22,7 +22,7 @@ public class StringManipulations {
         System.out.println("String ends with string: " + str.endsWith("string"));
         System.out.println("welcome");
 
-        String data = "AAPL,MSFT,GOOG,AMZN,TSLA";
+        String data = "AAPL,MSFT,GOOG,AMZN,TSLA,LILY";
         String[] tickers = data.split(",");
         for (String ticker : tickers) {
             System.out.println("Ticker: " + ticker);
