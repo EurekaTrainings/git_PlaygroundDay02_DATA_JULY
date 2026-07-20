@@ -24,8 +24,10 @@ public class Stock {
     private int issueFix; //add a new private variable issueFix
     private Date tradingDate;
     private LocalDate tradingDate;
-    private int pricePercentage23;
+    private int pricePercentage23123234;
     private int num;
+    private int branch1;
+    private Date todaydate;// 1st commit
     private int branch5;//this is first commit in branch 5
     private int branch4;//this is first commit in branch4
     private int branch2; //this is 1st commit in branch2
@@ -36,15 +38,20 @@ public class Stock {
     private int num1;
     private Date tradingyear;
      private int priceclose;
+    private String amazon_2;
     private String amazon_1;
+    private int branch2.1; //this is 2nd commit in branch2
+    private int branch2.2;//this is 3rd commit in branch2
+    private int branch2.1.1;
+
     private int branch2.1;
     private int open1;//this is 2nd commit in branch2
-
+    private int open2;
     private int close;
     private int price2;
     private string sectorid;
     private string devep1;
-    private String name;
+
 
 
     public Stock(String tickerSymbol,
@@ -61,15 +68,23 @@ public class Stock {
         return bool;
     }
 
+    // first branch
+
     void print() {
+        System.out.println("Ticker Symbol);
         System.out.println("Ticker Symbol: " + tickerSymbol);
         System.out.println("Ticker Name: " + tickerName);
         System.out.println("Market Cap: " + marketCap);
-    }
-    //NJ__01
 
+        System.out.println("Close Price: " + closeprice); 
+
+        System.out.println("Market Cap: " + openprice);
+    }
+  //sixth branch
 }
 // test 5
+// test 2
+// test
 
 
 // Commit 1 From "Datta-Branch-1"
@@ -103,3 +118,8 @@ public class Stock {
 //private int avgprice;
 //private int priceclose;
 //private String amazon_1;
+
+//
+//private string strrr;
+//private int openPrice;
+//private int closePrice;
