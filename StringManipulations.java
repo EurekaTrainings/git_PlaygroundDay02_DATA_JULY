@@ -29,6 +29,7 @@ public class StringManipulations {
         for (String ticker : tickers) {
             System.out.println("Ticker: " + ticker);
             System.out.println("new Ticker");
+            System.out.println("Welcome!!");
         }
     }
 }
