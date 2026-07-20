@@ -46,6 +46,7 @@ public class Stock {
         System.out.println("Ticker Symbol: " + tickerSymbol);
         System.out.println("Ticker Name: " + tickerName);
         System.out.println("Market Cap: " + marketCap);
+        System.out.println("Market Cap: " + openprice);
     }
 
 }
