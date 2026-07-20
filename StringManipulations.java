@@ -7,7 +7,7 @@ public class StringManipulations {
         str = "test" + "string";
         string sh= "shourya";
         String str = "price";
-        string sh= "keerthi"
+        String Str = "new stock";
         System.out.println("String length: " + str.length());
         System.out.println("String to upper: " + str.toUpperCase());
 
@@ -29,6 +29,7 @@ public class StringManipulations {
         String[] tickers = data.split(",");
         for (String ticker : tickers) {
             System.out.println("Ticker: " + ticker);
+            System.out.println("new Ticker");
             //test3
             //test4
             //test merge
