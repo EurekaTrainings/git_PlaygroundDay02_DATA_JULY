@@ -14,6 +14,7 @@ public class Stock {
     private String Max_price;
     private String Min_price;
     private String Swaroop2;
+    private String Swaroop5;
 
 
     public Stock(String tickerSymbol,
