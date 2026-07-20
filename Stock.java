@@ -11,6 +11,8 @@ public class Stock {
     private Date tradingDate;
     private LocalDate tradeDate;
     private String Zipcode;
+    private String Max_price;
+    private String Min_price;
 
 
     public Stock(String tickerSymbol,
