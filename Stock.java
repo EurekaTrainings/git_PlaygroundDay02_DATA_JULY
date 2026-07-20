@@ -112,3 +112,9 @@ public class Stock {
 //private String amazon_1;
 
 //Test5
+
+// Commit 2 From "Datta-Branch-2"
+//private int openPrice;
+//private int closePrice;
+//private Date  tradingdate;
+//private double currentRatio;
