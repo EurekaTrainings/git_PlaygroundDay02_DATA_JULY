@@ -42,6 +42,8 @@ public class Stock {
         return bool;
     }
 
+    // first branch
+
     void print() {
         System.out.println("Ticker Symbol: " + tickerSymbol);
         System.out.println("Ticker Name: " + tickerName);
