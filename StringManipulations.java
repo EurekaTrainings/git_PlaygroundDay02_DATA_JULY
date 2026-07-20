@@ -30,6 +30,7 @@ public class StringManipulations {
         for (String ticker : tickers) {
             System.out.println("Ticker: " + ticker);
             System.out.println("new Ticker");
+             System.out.println("new Ticker1");
             //test3
             //test4
             //test merge
