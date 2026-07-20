@@ -26,7 +26,7 @@ public class Stock {
     private LocalDate tradingDate;
     private int pricePercentage;
     private int num;
-
+    private int branch4;//this is first commit in branch4
 
     public Stock(String tickerSymbol,
                  String tickerName,
