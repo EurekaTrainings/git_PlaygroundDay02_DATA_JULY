@@ -29,7 +29,6 @@ public class Stock {
     private int branch1; // 1st commit
      private int priceclose;
     private String amazon_1;
-    private string devep1;
     private String name;
 
 
