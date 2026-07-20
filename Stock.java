@@ -49,6 +49,7 @@ public class Stock {
     private string sectorid;
     private string devep1;
     private String name;
+    private String name1;
 
 
     public Stock(String tickerSymbol,
