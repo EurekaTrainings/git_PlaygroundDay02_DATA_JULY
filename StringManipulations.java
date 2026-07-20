@@ -10,7 +10,7 @@ public class StringManipulations {
         string sh= "keerthi"
         System.out.println("String length: " + str.length());
         System.out.println("String to upper: " + str.toUpperCase());
-
+System.out.println("Maddela");
         System.out.println("Sub string: " + str.substring(4, 10));
         System.out.println("Sub string: " + str.substring(4));
         System.out.println("Character at index 0: " + str.charAt(0));
