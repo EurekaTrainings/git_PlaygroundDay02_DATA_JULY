@@ -33,6 +33,7 @@ public class Stock {
      private int priceclose;
     private String amazon_1;
     private int close;
+    private int price2;
 
 
     public Stock(String tickerSymbol,
