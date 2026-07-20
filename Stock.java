@@ -68,3 +68,11 @@ public class Stock {
 //private LocalDate tradingDate;
 //private int pricePercentage;
 //private int num;
+
+
+
+// Commit 2 From "Datta-Branch-2"
+//private int openPrice;
+//private int closePrice;
+//private Date  tradingdate;
+//private double currentRatio;
