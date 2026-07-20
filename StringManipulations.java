@@ -22,7 +22,7 @@ public class StringManipulations {
 
         System.out.println("String starts with test: " + str.startsWith("test"));
         System.out.println("String ends with string: " + str.endsWith("string"));
-        System.out.println("welcome");
+        System.out.println("welcome to Eureka");
 
         String data = "AAPL,MSFT,GOOG,AMZN,TSLA,IBM,JBL";
         String[] tickers = data.split(",");
@@ -31,6 +31,7 @@ public class StringManipulations {
             //test3
             //test4
             //test merge
+            //branch 4 change
         }
     }
 }
