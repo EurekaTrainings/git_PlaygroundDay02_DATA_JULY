@@ -1,5 +1,8 @@
 /.idea
 .gitignore
 .git_PlaygroundDay02_DATA_JULY.iml
-.gitignore
-
+.gitignore.swp
+readme.md
+/exm
+/exp
+ex.py

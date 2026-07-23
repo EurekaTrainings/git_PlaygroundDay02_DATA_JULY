@@ -4,7 +4,7 @@ import java.sql.Date;
 import java.util.Objects;
 
 public class Stock {
-    private String tickerSymbol;
+    //private String tickerSymbol; --commented ticker symbol saipraveenTest1 branch
     private String tickername;
     private int marketCap;
     private int openprice;
@@ -12,7 +12,6 @@ public class Stock {
     private Date tradingdate;
     private int openPrice;
     private int closePrice;
-    private Date  tradingdate;
     private double currentRatio;
     private int openprice;
     private int closeprice;
@@ -38,9 +37,11 @@ public class Stock {
     private int num1;
     private Date tradingyear;
      private int priceclose;
+    private String amazon_3;
     private String amazon_2;
     private String amazon_1;
-    private int branch2.1; //this is 2nd commit in branch2
+    //this is 2nd commit in branch2
+    private String amazon_1; //this is 2nd commit in branch2
 
     private int branch2.1;
     private int open1;//this is 2nd commit in branch2
@@ -49,6 +50,9 @@ public class Stock {
     private int price2;
     private string sectorid;
     private string devep1;
+    private String name;
+    private String name1;
+    private String name2;
 
 
 
@@ -73,6 +77,9 @@ public class Stock {
         System.out.println("Ticker Symbol: " + tickerSymbol);
         System.out.println("Ticker Name: " + tickerName);
         System.out.println("Market Cap: " + marketCap);
+        System.out.println("Close Price: " + closeprice);
+        System.out.println("Open Price: " + openprice);
+        System.out.println("Price Drop: " + pricedrop);
 
         System.out.println("Close Price: " + closeprice); 
 
