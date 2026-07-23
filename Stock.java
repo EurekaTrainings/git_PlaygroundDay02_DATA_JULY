@@ -4,7 +4,7 @@ import java.sql.Date;
 import java.util.Objects;
 
 public class Stock {
-    private String tickerSymbol;
+    //private String tickerSymbol; --commented ticker symbol saipraveenTest1 branch
     private String tickername;
     private int marketCap;
     private int openprice;
